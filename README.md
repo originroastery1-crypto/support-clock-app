@@ -2,13 +2,13 @@
 
 <h1 align="center">Support Clock</h1>
 
-<p align="center"><b>A Dota 2 coach for pos 4 and pos 5 supports</b> - Windows 10/11</p>
+<p align="center"><b>A Dota 2 coach for every role - pos 1 to pos 5</b> - Windows 10/11</p>
 
 <p align="center"><a href="https://github.com/originroastery1-crypto/support-clock-app/releases/latest/download/Support-Clock.zip"><b>⬇ Download Support-Clock.zip</b></a></p>
 
 <p align="center"><img src="images/app-wide.png" alt="Support Clock during a game"></p>
 
-It sits on your second monitor, follows Dota's game clock and tells you what to do next - runes, pulls, stacks, wards, Roshan, Tormentor, day and night - with a voice, so you don't have to look. Plus a ward and deward map from real pro games of this patch, your hero's tips and items, the enemy lineup read off the top bar, and a report card after each game.
+Pick your role when the game starts (carry, mid, offlane, soft or hard support) and the whole app follows it. It sits on your second monitor, follows Dota's game clock and tells you what to do next - runes, pulls, stacks, wards, Roshan, Tormentor, day and night - with a voice, so you don't have to look. Plus a ward and deward map from real pro games of this patch, your hero's tips and items, the enemy lineup read off the top bar, and a report card after each game.
 
 ## Install (2 minutes)
 
